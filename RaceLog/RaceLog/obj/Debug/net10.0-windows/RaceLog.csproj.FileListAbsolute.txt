@@ -1,0 +1,17 @@
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.exe
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.deps.json
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.runtimeconfig.json
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.dll
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\bin\Debug\net10.0-windows\RaceLog.pdb
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.Form1.resources
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.csproj.GenerateResource.cache
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.AssemblyInfoInputs.cache
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.AssemblyInfo.cs
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.csproj.CoreCompileInputs.cache
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.dll
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\refint\RaceLog.dll
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.pdb
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.genruntimeconfig.cache
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\ref\RaceLog.dll
+C:\Users\tsjvr\source\repos\RaceLog\RaceLog\obj\Debug\net10.0-windows\RaceLog.csproj.Up2Date
